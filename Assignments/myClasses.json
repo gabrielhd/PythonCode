@@ -1,0 +1,7 @@
+[
+{"Name" : "Python", "Professor" : "Mark Cohen", "Time" : ["Online", "Online"]},
+{"Name" : "Compter Triage", "Professor" : "David Eve", "Time" : ["11:00 AM", "TH"]},
+{"Name" : "Networking II", "Professor" : "Joseph Lee", "Time" : ["1:00 PM", "MWF"]},
+{"Name" : "Discrete Mathematics", "Professor" : "Liz Hartung", "Time" : ["2:00 PM", "TH"]},
+{"Name" : "Modern World Civilization", "Professor" : "Kailai Huang", "Time" : ["3:00 PM", "TH"]}
+]
